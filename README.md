@@ -44,7 +44,7 @@
 <br><br>
 <div display="inline-block">
  
- <p align="left">📚 Estou estudando TypeScript, Angular, React, Java e PHP na Udemy!;</p>
+ <p align="left">📚 Estou estudando TypeScript, Angular, React, JavaScript e PHP na Udemy!;</p>
  <p align="left">💻 Estou me aprimorando em todas as linguagens que tenho conhecimento nos cursos da Udemy!;</p>
  <p align="left">✍ Faço curso de inglês no CNA, meu conhecimento é básico-intermediário;</p>
  <p align="left">💡 Estou planejando e projetando o meu primeiro portfólio com todos os meus conhecimentos e projetos, logo mais irei postar aqui!.</p>
