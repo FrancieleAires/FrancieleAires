@@ -1,5 +1,5 @@
 
- <img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/109992140/213183953-0346f5a1-e265-47d0-a7ca-ce95e8f21549.png">
+ <img align="right" width="250px" style="margin-top:-20px" src="https://o.remove.bg/downloads/f2f26341-e375-45c4-b12e-fed4eab098b9/image-removebg-preview.png">
 
 
 <div display="inline-block">
