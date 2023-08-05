@@ -1,5 +1,5 @@
 
- <img align="right" width="250px" style="margin-top:-20px" src="https://o.remove.bg/downloads/f2f26341-e375-45c4-b12e-fed4eab098b9/image-removebg-preview.png">
+ <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/FrancieleAires/FrancieleAires/blob/main/MicrosoftTeams-image__2_-removebg-preview.png?raw=true">
 
 
 <div display="inline-block">
