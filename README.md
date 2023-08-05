@@ -35,7 +35,7 @@
  
  ### 🖥️ Tecnologias: 
   <p align="center">
-<img width="200px" align="right" src="https://o.remove.bg/downloads/60622495-537f-4678-b219-ac2d1861bd41/213212637-eeeb4ca9-4bb0-4156-a0e9-7b51a06c5bab-removebg-preview.png">
+<img width="200px" align="right" src="https://github.com/FrancieleAires/FrancieleAires/blob/main/MicrosoftTeams-image__1_-removebg-preview.png?raw=true">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
