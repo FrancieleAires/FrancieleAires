@@ -23,7 +23,7 @@
  
  ## Hey, Devs! 💡
  
- Meu nome é Franciele, tenho 16 anos e moro em Mongaguá-SP. Estudo na Etec Adolpho Berezin, (Desenvolvimento de Sistemas) e minha maior paixão é programar!  🌏
+ Meu nome é Franciele, tenho 18 anos e moro em Mongaguá-SP. Estudo na Etec Adolpho Berezin, (Desenvolvimento de Sistemas) e minha maior paixão é programar!  🌏
  
  <br>
  <br>
@@ -47,9 +47,9 @@
 <br><br>
 <div display="inline-block">
  
- <p align="left">📚 Estou estudando TypeScript, Angular, React, JavaScript e PHP na Udemy!;</p>
- <p align="left">💻 Estou me aprimorando em todas as linguagens que tenho conhecimento nos cursos da Udemy!;</p>
- <p align="left">✍ Faço curso de inglês no CNA, meu conhecimento é básico-intermediário;</p>
+ <p align="left">📚 Estou estudando TypeScript, Angular, React, JavaScript, e me aprofundando em .NET no Desenvolvedor.io!;</p>
+ <p align="left">💻 Estou me aprimorando em todas as linguagens que tenho conhecimento em cursos sólidos!;</p>
+ <p align="left">✍ Faço curso de inglês, meu conhecimento é básico-intermediário;</p>
  <p align="left">💡 Estou planejando e projetando o meu primeiro portfólio com todos os meus conhecimentos e projetos, logo mais irei postar aqui!.</p>
  
  <br>
