@@ -23,7 +23,7 @@
  
  ## Hey, Devs! 💡
  
- Meu nome é Franciele, tenho 18 anos e moro em Mongaguá-SP. Estudo na Etec Adolpho Berezin, (Desenvolvimento de Sistemas) e minha maior paixão é programar!  🌏
+ Meu nome é Franciele, tenho 18 anos e moro em Mongaguá-SP. Estou cursando a Universidade Católica de Santos (Sistemas de Informação), e minha maior paixão é programar!  🌏
  
  <br>
  <br>
