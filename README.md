@@ -47,11 +47,10 @@
 <br><br>
 <div display="inline-block">
  
- <p align="left">📚 Estou estudando TypeScript, Angular, React, JavaScript, e me aprofundando em .NET no Desenvolvedor.io!;</p>
+ <p align="left">📚 Tenho sólidos conhecimentos em TypeScript, Angular, React, JavaScript, e me aprofundamento em .NET no Desenvolvedor.io!;</p>
  <p align="left">💻 Estou me aprimorando em todas as linguagens que tenho conhecimento em cursos sólidos!;</p>
  <p align="left">✍ Faço curso de inglês, meu conhecimento é básico-intermediário;</p>
- <p align="left">💡 Estou planejando e projetando o meu primeiro portfólio com todos os meus conhecimentos e projetos, logo mais irei postar aqui!.</p>
- 
+
  <br>
  
  ##
