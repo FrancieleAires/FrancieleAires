@@ -40,14 +40,12 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "CSHARP"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title = "PHP"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title = "MySQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title = "Figma"/></code>
    </p>
 <br><br>
 <div display="inline-block">
  
- <p align="left">📚 Tenho sólidos conhecimentos em TypeScript, Angular, React, JavaScript, e me aprofundamento em .NET no Desenvolvedor.io!;</p>
+ <p align="left">📚 Tenho sólidos conhecimentos em .NET, TypeScript, Angular, React, JavaScript!;</p>
  <p align="left">💻 Estou me aprimorando em todas as linguagens que tenho conhecimento em cursos sólidos!;</p>
  <p align="left">✍ Faço curso de inglês, meu conhecimento é básico-intermediário;</p>
 
